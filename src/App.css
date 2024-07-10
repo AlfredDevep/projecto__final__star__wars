@@ -1,0 +1,9 @@
+body{
+  background-color: #242424;
+}
+
+
+.banner{
+  background-image: url('../public/Fondo_login.jpg');
+  height: 400px;
+}
